@@ -1,4 +1,4 @@
-# Getting-Started-with-HTML
+# Getting-Started-With-HTML
 
 ## Project Details:
 * If you haven’t already created an HTML file to contain your notes from this section, refer back to the beginning of the lessons for setting up your file.
@@ -6,5 +6,5 @@
 * Keep it simple. CSS is used for styling and is not necessary for this project.
 * Make sure you use proper HTML Document structure for your code.
 
-### Credit for this project 
+### Credit for this project's instructions 
 *Goes to [Udacity](https://www.udacity.com/) in their Intro to Programming Nanodegree track*
